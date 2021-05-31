@@ -1,0 +1,1 @@
+Hello everyone, this is the first time I am learning Git bash terminal in depth.
